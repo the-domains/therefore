@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T14:29:17.343Z'
-dateModified: '2016-03-19T14:29:07.053Z'
+datePublished: '2016-03-19T14:43:05.097Z'
+dateModified: '2016-03-19T14:42:53.424Z'
 title: 'Therefore: Introduction'
 author: []
+sourcePath: _posts/2016-03-19-therefore-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-therefore-introduction.md
-published: true
 url: therefore-introduction/index.html
 _type: Article
 
 ---
+****
+
 ****
 
 ****
@@ -295,4 +297,4 @@ strengthen the connections between what I know and what I feel. Do this in my
 life and in the lives of all who read this book, so that your people would be
 strengthened, your church built up, and your glory advanced in our lives and in
 this world. _
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b41e2eb0-3d18-4d8d-b21b-c125f1c72739.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caf30c17-9450-4f1f-a087-94b97c2361a4.jpg)
